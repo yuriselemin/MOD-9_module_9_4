@@ -1,7 +1,9 @@
 
-from random import choice
-
 # Домашнее задание по теме "Создание функций на лету"
+
+
+
+from random import choice
 
 
 first = 'Мама мыла раму'
@@ -36,3 +38,6 @@ first_ball = MysticBall('Да', 'Нет', 'Наверное')
 print(first_ball())
 print(first_ball())
 print(first_ball())
+
+
+
